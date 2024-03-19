@@ -81,9 +81,9 @@
 
 .round-image {
     position: relative;
-    left: 10px;
+    left: 30px;
   width: 270px; /* Ajusta el tamaño de la imagen según tus necesidades */
-  height: 270px;
+  height: 290px;
   border-radius: 40%;
   margin-bottom: 20px;
 }
